@@ -1,0 +1,5 @@
+{
+  "question": "What is machine learning and where is it used?",
+  "response": "Machine learning is a branch of AI that enables systems to learn from data without being explicitly programmed for every rule. It is used in recommendation systems, fraud detection, healthcare diagnostics, and autonomous systems.",
+  "expected": "Machine learning is a field of AI that learns patterns from data and is used in areas such as recommendation engines, fraud detection, medical analysis, and robotics."
+}
